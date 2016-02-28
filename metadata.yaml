@@ -1,0 +1,32 @@
+_repo: Peter-Plymley-s-Letters-and-Selected-Essays_4063
+creator:
+  author:
+    agent_name: Smith, Sydney
+    aliases:
+    - Plymley, Peter
+    - Dyson, Mr.
+    birthdate: 1771
+    deathdate: 1845
+    gutenberg_agent_id: '1377'
+    url: http://www.gutenberg.org/2009/agents/1377
+    wikipedia: http://en.wikipedia.org/wiki/Sydney_Smith
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholics -- Great Britain -- History'
+- !lcsh 'Essays'
+- !lcsh 'Catholics -- Ireland -- History'
+- !lcsh 'Catholic emancipation'
+- !lcsh 'Great Britain -- Politics and government -- 1800-1837'
+- !lcc 'PR'
+tableOfContents: Peter Pymley's Letters -- Historical Apology for the Irish Catholics
+  -- Ireland and England -- Moore's Captain Rock.
+title: Peter Plymley's Letters, and Selected Essays
+url: http://www.gutenberg.org/ebooks/4063
