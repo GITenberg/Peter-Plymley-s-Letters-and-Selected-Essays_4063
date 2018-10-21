@@ -1,5 +1,5 @@
 _repo: Peter-Plymley-s-Letters-and-Selected-Essays_4063
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ subjects:
 - !lcsh 'Catholic emancipation'
 - !lcsh 'Great Britain -- Politics and government -- 1800-1837'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Peter Pymley's Letters -- Historical Apology for the Irish Catholics
   -- Ireland and England -- Moore's Captain Rock.
 title: Peter Plymley's Letters, and Selected Essays
